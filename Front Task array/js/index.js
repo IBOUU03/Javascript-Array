@@ -163,3 +163,21 @@
 // console.log(first);
 
 //#endregion
+
+
+
+
+//#region keys
+
+// const testArray = [7,6,91,79,5]
+// let text = ""
+
+// function myFind(array){
+   
+//     for (let i = 0; i < array.length; i++) {
+//            text += i + "," 
+//     }
+//     return text
+// }
+// console.log(myFind(testArray));
+//#endregion
