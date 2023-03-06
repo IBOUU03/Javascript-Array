@@ -181,3 +181,22 @@
 // }
 // console.log(myFind(testArray));
 //#endregion
+
+
+//#region entries
+
+// const testArray = [7,6,91,79,5]
+// let text = ""
+
+// function myEntries(array){
+   
+//     for (let i = 0; i < array.length; i++) {
+//            text += i + "," + array[i] + "\n"
+//     }
+//     return text
+// }
+// console.log(myEntries(testArray));
+
+
+
+//#endregion
