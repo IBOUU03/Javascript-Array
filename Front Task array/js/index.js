@@ -132,7 +132,7 @@
 // const testArray = [3,9,5,112,8,6];
 // let sum = 0;
 // for (let i = 0; i < testArray.length; i++) {
-//     sum += testArray[i];
+//     sum += testArray[i]/testArray.length;
 // }
 
 // console.log(sum);
