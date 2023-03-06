@@ -222,3 +222,30 @@
 // }
 // console.log(text);
 //#endregion
+
+
+
+//#region Minimum
+
+// const arr = [5, 2, 8, 1, 6];
+
+// function minimum(array){
+//     if(array.length === 0 ){
+//         return 0 
+//     }
+
+//     let min = arr[0]
+
+//     for (let i = 0; i < array.length; i++) {
+//         if(min > arr[i]){
+//             min = arr[i]
+//         }
+        
+//     }
+
+//     return min
+// }
+
+// console.log(minimum(arr));
+
+//#endregion
