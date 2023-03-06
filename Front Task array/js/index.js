@@ -200,3 +200,25 @@
 
 
 //#endregion
+
+
+
+//#region includes
+// const testArray = [7,6,92,79,5]
+// let text = myIncludes(testArray, myFunction)
+
+// function myIncludes(array, callback){
+//     for (let i = 0; i < array.length; i++) {
+//         if (callback(array[i])) {
+//             return true
+//         }
+        
+//     }
+//     return false
+// }
+
+// function myFunction(item){
+//     return item === 91
+// }
+// console.log(text);
+//#endregion
