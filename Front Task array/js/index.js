@@ -59,7 +59,7 @@
 //     const testArray2 = [];
 //     for (let index = 0; index < array.length; index++) {  
 //         if (callback(array[index],index,array)) {
-//             // testArray2.push(array[index]);
+//             testArray2.push(array[index]);
 //             testArray2[index]= testArray[index];
 //         }
 //     }
@@ -136,5 +136,30 @@
 // }
 
 // console.log(sum);
+
+//#endregion
+
+
+
+
+//#region find
+
+// const testArray = [7,6,91,79,5]
+
+// let first = myFind(testArray,myFunction)
+
+// function myFind(array,callback){
+//     for (let i = 0; i < array.length; i++) {
+//         if (callback(array[i])) {
+//             return array[i]
+//         }
+//     }
+// }
+
+// function myFunction(item){
+//     return item > 18
+// }
+
+// console.log(first);
 
 //#endregion
